@@ -6,7 +6,7 @@
 A passionate developer who thrives on solving complex problems through clean, efficient code. I enjoy bridging the gap between theoretical concepts and practical applications in technology.
 
 ## 🛠️ Tech Stack & Tools
-<!-- Badge kontak di bagian ini BISA diklik seperti biasa -->
+<!-- Badge di bagian ini BISA diklik -->
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,37 +28,33 @@ A passionate developer who thrives on solving complex problems through clean, ef
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Statistics
-<!-- PERUBAHAN PENTING: URL badge stats ini sudah dimodifikasi agar TIDAK BISA DIKLIK -->
+<!-- PERUBAHAN: Badge stats ini sekarang TIDAK BISA DIKLIK -->
 <div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RimGit-N&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RimGit-N&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <b>⚡ GitHub Activity Streak</b><br>
-  Committed to continuous learning and contribution
-</p>
-
+  <p>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RimGit-N&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RimGit-N&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" width="41%" />
+  </p>
 </div>
 
 ## 🏆 GitHub Achievements
-<!-- PERUBAHAN PENTING: URL badge achievements ini sudah dimodifikasi agar TIDAK BISA DIKLIK -->
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Contributions-100+-brightgreen)
-![Projects](https://img.shields.io/badge/Projects-10+-blue)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-purple)
-
-</div>
+<!-- PERUBAHAN PENTING: Layout lebih rapi dan TIDAK BISA DIKLIK -->
+<p align="center">
+  <kbd>
+    <img src="https://img.shields.io/badge/Contributions-100+-brightgreen?style=flat-square&logo=github" alt="Contributions" />
+  </kbd>&nbsp;
+  <kbd>
+    <img src="https://img.shields.io/badge/Projects-10+-blue?style=flat-square&logo=book" alt="Projects" />
+  </kbd>&nbsp;
+  <kbd>
+    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=flat-square&logo=calendar" alt="Experience" />
+  </kbd>&nbsp;
+  <kbd>
+    <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-purple?style=flat-square&logo=opensourceinitiative" alt="Open Source" />
+  </kbd>
+</p>
 
 ## 🔥 Featured Projects
-<!-- Link proyek diganti dengan placeholder teks -->
+
 ### Project Alpha
 🚀 A full-stack web application with real-time features
 - Built with React, Node.js, and WebSocket technology
@@ -82,11 +78,13 @@ A passionate developer who thrives on solving complex problems through clean, ef
 
 ## 📈 Development Activity
 <div align="center">
-
-📅 **Weekly Commits**: Active
-🔄 **Project Maintenance**: Ongoing
-🎯 **Current Focus**: Full-stack development
-📚 **Learning**: New frameworks & best practices
+  
+| | |
+| :--- | :--- |
+| **📅 Weekly Commits** | Active |
+| **🔄 Project Maintenance** | Ongoing |
+| **🎯 Current Focus** | Full-stack development |
+| **📚 Learning** | New frameworks & best practices |
 
 </div>
 
@@ -97,7 +95,7 @@ A passionate developer who thrives on solving complex problems through clean, ef
 - **System Design** principles for scalable applications
 
 ## 📫 Connect With Me
-<!-- Badge kontak di bagian ini BISA diklik seperti biasa -->
+<!-- Badge kontak di bagian ini BISA diklik -->
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RimGit-N)
 
