@@ -84,7 +84,7 @@ A passionate developer who thrives on solving complex problems through clean, ef
 - **System Design** principles for scalable applications
 
 ## 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufal97689@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RimGit-N)
 
 ## ⚡ Quick Facts
