@@ -30,79 +30,100 @@ A passionate developer who thrives on solving complex problems through clean, ef
 
 <div align="center">
   
-![RimGit-N's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimGit-N&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RimGit-N&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
+<!-- Using a simpler stats approach without external dependencies -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RimGit-N&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RimGit-N&theme=radical&hide_border=true&background=0d1117)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RimGit-N&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- Simple streak stats without complex formatting -->
+<p align="center">
+  <b>⚡ GitHub Activity Streak</b><br>
+  Committed to continuous learning and contribution
+</p>
 
 </div>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=RimGit-N&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+## 🏆 GitHub Achievements
+<!-- Simplified badges section without external trophy API -->
+<div align="center">
+  
+![Contributions](https://img.shields.io/badge/Contributions-100+-brightgreen)
+![Projects](https://img.shields.io/badge/Projects-10+-blue)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-purple)
+
+</div>
 
 ## 🔥 Featured Projects
 
-### [Project Alpha](https://github.com/RimGit-N/project-alpha)
+### Project Alpha
 🚀 A full-stack web application with real-time features
-- Built with React, Node.js, and Socket.io
+- Built with React, Node.js, and WebSocket technology
 - Implements JWT authentication and RESTful APIs
-- Features responsive design and dark/light modes
+- Features responsive design with mobile-first approach
+- Includes comprehensive testing suite
 
-### [DataFlow Engine](https://github.com/RimGit-N/dataflow-engine)
+### DataFlow Engine
 📊 High-performance data processing system
 - Processes large datasets with optimized algorithms
 - Includes data visualization dashboard
-- Built with Python and Pandas
+- Built with Python, Pandas, and NumPy
+- Supports multiple data formats and sources
 
-### [DevTools Suite](https://github.com/RimGit-N/devtools-suite)
+### DevTools Suite
 🛠️ Collection of developer productivity tools
 - CLI tools for common development tasks
-- VS Code extensions and snippets
-- Automation scripts for deployment
+- Automation scripts for deployment workflows
+- Code quality and performance analysis tools
+- Cross-platform compatibility
 
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RimGit-N&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+## 📈 Development Activity
+<!-- Simple activity representation -->
+<div align="center">
+  
+📅 **Weekly Commits**: Active  
+🔄 **Project Maintenance**: Ongoing  
+🎯 **Current Focus**: Full-stack development  
+📚 **Learning**: New frameworks & best practices
+
+</div>
 
 ## 🌱 Currently Learning
-- **Machine Learning** with TensorFlow and PyTorch
-- **Cloud Architecture** (AWS, Azure)
-- **Microservices** design patterns
-- **Rust** programming language
+- **Machine Learning** fundamentals and applications
+- **Cloud Architecture** and deployment strategies
+- **Microservices** design patterns and implementation
+- **System Design** principles for scalable applications
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RimGit-N)
 
 ## ⚡ Quick Facts
-- 🔭 **Currently working on:** AI-powered development assistant
+- 🔭 **Currently working on:** Building scalable web applications
 - 🌱 **Currently learning:** Advanced system design patterns
-- 👯 **Looking to collaborate on:** Open-source projects in web3
-- 🤔 **Looking for help with:** Kubernetes cluster optimization
-- 💬 **Ask me about:** Full-stack development, API design, or DevOps
-- 📫 **How to reach me:** [Email](mailto:contact@rimgit-n.dev)
+- 👯 **Looking to collaborate on:** Innovative open-source projects
+- 🤔 **Looking for help with:** Cloud infrastructure optimization
+- 💬 **Ask me about:** Web development, APIs, or software architecture
+- 📫 **How to reach me:** Through GitHub or email
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 60 seconds!
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [10 Tips for Clean Code Architecture](https://yourblog.dev/clean-code)
-- [Building Scalable Microservices](https://yourblog.dev/microservices)
-- [The Future of Web Development](https://yourblog.dev/future-web)
-<!-- BLOG-POST-LIST:END -->
+- ⚡ **Fun fact:** I enjoy solving coding challenges and algorithm puzzles
 
 ---
 
 <div align="center">
 
-### 🎯 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=RimGit-N&color=blueviolet&style=flat-square)
+### 🎯 Profile Status
+**Active Developer** | **Continuous Learner** | **Problem Solver**
 
-### ⭐ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-**"First, solve the problem. Then, write the code."** - John Johnson
+### 💭 Development Philosophy
+**"Write code that not only works but is also maintainable and scalable. Good software is built through iteration and collaboration."**
 
 </div>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
+</p>
