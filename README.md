@@ -6,6 +6,7 @@
 A passionate developer who thrives on solving complex problems through clean, efficient code. I enjoy bridging the gap between theoretical concepts and practical applications in technology.
 
 ## 🛠️ Tech Stack & Tools
+<!-- Badge kontak di bagian ini BISA diklik seperti biasa -->
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,10 +28,9 @@ A passionate developer who thrives on solving complex problems through clean, ef
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Statistics
-
+<!-- PERUBAHAN PENTING: URL badge stats ini sudah dimodifikasi agar TIDAK BISA DIKLIK -->
 <div align="center">
-  
-<!-- Using a simpler stats approach without external dependencies -->
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RimGit-N&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -39,7 +39,6 @@ A passionate developer who thrives on solving complex problems through clean, ef
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RimGit-N&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- Simple streak stats without complex formatting -->
 <p align="center">
   <b>⚡ GitHub Activity Streak</b><br>
   Committed to continuous learning and contribution
@@ -48,9 +47,9 @@ A passionate developer who thrives on solving complex problems through clean, ef
 </div>
 
 ## 🏆 GitHub Achievements
-<!-- Simplified badges section without external trophy API -->
+<!-- PERUBAHAN PENTING: URL badge achievements ini sudah dimodifikasi agar TIDAK BISA DIKLIK -->
 <div align="center">
-  
+
 ![Contributions](https://img.shields.io/badge/Contributions-100+-brightgreen)
 ![Projects](https://img.shields.io/badge/Projects-10+-blue)
 ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange)
@@ -59,7 +58,7 @@ A passionate developer who thrives on solving complex problems through clean, ef
 </div>
 
 ## 🔥 Featured Projects
-
+<!-- Link proyek diganti dengan placeholder teks -->
 ### Project Alpha
 🚀 A full-stack web application with real-time features
 - Built with React, Node.js, and WebSocket technology
@@ -82,12 +81,11 @@ A passionate developer who thrives on solving complex problems through clean, ef
 - Cross-platform compatibility
 
 ## 📈 Development Activity
-<!-- Simple activity representation -->
 <div align="center">
-  
-📅 **Weekly Commits**: Active  
-🔄 **Project Maintenance**: Ongoing  
-🎯 **Current Focus**: Full-stack development  
+
+📅 **Weekly Commits**: Active
+🔄 **Project Maintenance**: Ongoing
+🎯 **Current Focus**: Full-stack development
 📚 **Learning**: New frameworks & best practices
 
 </div>
@@ -99,6 +97,7 @@ A passionate developer who thrives on solving complex problems through clean, ef
 - **System Design** principles for scalable applications
 
 ## 📫 Connect With Me
+<!-- Badge kontak di bagian ini BISA diklik seperti biasa -->
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RimGit-N)
 
