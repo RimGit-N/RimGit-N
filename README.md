@@ -68,7 +68,7 @@ A passionate developer who thrives on solving complex problems through clean, ef
 ## 📈 Development Activity
 <div align="center">
 
-| | |
+| Activity | Status |
 | :--- | :--- |
 | **📅 Weekly Commits** | Active |
 | **🔄 Project Maintenance** | Ongoing |
